@@ -1,0 +1,24 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "description": "Design Patterns for Humans(Typescript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atifkhan161/ts-design-patterns.git"
+  },
+  "keywords": [
+    "typescript",
+    "design",
+    "patterns"
+  ],
+  "author": "atifkhan161@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atifkhan161/ts-design-patterns/issues"
+  },
+  "homepage": "https://github.com/atifkhan161/ts-design-patterns#readme"
+}

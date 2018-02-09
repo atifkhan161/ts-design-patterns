@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+#Temp exclude .js files
+*.js 
+
+#Exclude Vs Code files
+.vscode
